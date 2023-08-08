@@ -59,6 +59,16 @@
   font-size: 1.125rem;
   line-height: 1.1;
   font-weight: bold;
+  text-decoration: none;
+  color: #141414;
+}
+
+.empresa-titulo a {
+  font-size: 1.125rem;
+  line-height: 1.1;
+  font-weight: bold;
+  text-decoration: none;
+  color: #141414;
 }
 
 .empresa-texto {
@@ -79,7 +89,7 @@
   line-height: 1.4;
   border-radius: 4px;
   background: #fff;
-  padding: 5px 10px; 
+  padding: 5px 10px;
 }
 
 @media (max-width: 800px) {
